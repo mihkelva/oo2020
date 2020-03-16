@@ -1,4 +1,4 @@
-package w05_kontrolltoo1;
+package w06_liides;
 
 import java.io.*;
 import java.util.Scanner;
