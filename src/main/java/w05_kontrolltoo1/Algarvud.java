@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class KT {
+public class Algarvud {
     public static void main(String[] args) {
         System.out.println("Kahendsüsteemist kümnendsüsteemi teisendamine! \n" +
                 "Sisesta soovitud kuni 10 kohaline arv " +
