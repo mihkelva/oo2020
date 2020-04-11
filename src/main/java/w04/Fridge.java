@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Fridge {
+
     private List products = new ArrayList();
 
     public List getProducts() {
