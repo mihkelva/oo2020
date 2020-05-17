@@ -1,4 +1,4 @@
-package w11_proovikontrolltöö;
+package w11_proovikontrolltoo;
 
 public class Bottle {
     double size;

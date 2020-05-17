@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="w11_proovikontrolltoo.BoxOfBottlesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-17T17:04:47" hostname="LAPTOP-LIA44KKV" time="0.011">
+  <properties/>
+  <testcase name="testFillBoxFromFullBarrel" classname="w11_proovikontrolltoo.BoxOfBottlesTest" time="0.011"/>
+  <system-out><![CDATA[Kast on tÃ¤is!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
